@@ -22,10 +22,11 @@ gnome-settings-daemon
 gnome-tweaks
 
 
+pipx
 gnome-shell-extension-manager
 gnome-menus
-gnome-shell-extensions
-gnome-shell-extension-dashtodock
+#gnome-shell-extensions
+#gnome-shell-extension-dashtodock
 
 
 nautilus
