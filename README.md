@@ -112,10 +112,10 @@ make build
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian / Gnome Shell / Adjustment](https://samwhelp.github.io/debian-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
-| [Debian / Gnome Shell / Note](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
-| [Debian / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Debian / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Debian Gnome Shell Adjustment](https://samwhelp.github.io/debian-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
+| [Debian Gnome Shell Note](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
+| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Debian Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
 
