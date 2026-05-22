@@ -4,8 +4,8 @@
 
 > [debian-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-wincity)
 
-| Link | GitHub |
-| ---- | ------ |
+| Project |
+| ------- |
 | [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 | `+` |
 | [debian-iso-builder-import-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/debian-iso-builder-import-pacstall-gnome-shell-layout-wincity) |
